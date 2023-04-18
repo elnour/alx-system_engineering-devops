@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lne 'ptint if $. %2 ==1'
